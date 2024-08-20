@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">save images to fire base storage</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="select_image">Select Image</string>
+</resources>

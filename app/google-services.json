@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246035540996",
+    "project_id": "save-image-to-firebase-storage",
+    "storage_bucket": "save-image-to-firebase-storage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246035540996:android:e8c7149a94d2fb93495951",
+        "android_client_info": {
+          "package_name": "com.example.saveimagestofirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246035540996-7jbersevm6mpns9gbgar0a1r9bpplgk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.saveimagestofirebasestorage",
+            "certificate_hash": "5183e04dec9b0b7f7018f3d2ec3aeac7b25a5429"
+          }
+        },
+        {
+          "client_id": "246035540996-cofaah96nia3nqqmpotmco5ajilirm8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuS14RWWznXsiVVTrvmRuj8jtP1Wo8nXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246035540996-cofaah96nia3nqqmpotmco5ajilirm8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
